@@ -1,0 +1,476 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Man-hunter, or, A due reproof of a malicious libel against the present government entituled, The third and last part of the magistracy and government of England vindicated with reasons for a general act of indemnity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51730</idno>
+            <idno type="STC">Wing M369</idno>
+            <idno type="STC">ESTC R5950</idno>
+            <idno type="EEBO-CITATION">12416574</idno>
+            <idno type="OCLC">ocm 12416574</idno>
+            <idno type="VID">61680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61680)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 283:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Man-hunter, or, A due reproof of a malicious libel against the present government entituled, The third and last part of the magistracy and government of England vindicated with reasons for a general act of indemnity.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shower, Bartholomew, --  Sir, 1658-1701. --  Magistracy and government of England vindicated.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:61680:1"/>
+            <pb n="1" facs="tcp:61680:1"/>
+            <head>
+               <hi>The Man-Hunter:</hi> OR, A due REPROOF of a Malicious LIBEL Againſt the Preſent GOVERNMENT; ENTITULED, <hi>The Third and Laſt Part of the Magiſtracy and Government of</hi> England <hi>Vindicated, with Reaſons for a General Act of Indemnity.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>It is the part of an ill-natured Man (or I might rather ſay ſcarce of a Man) to make a Trade of</hi> Hunting People to Death. Tullies Offices.</p>
+                  <bibl>
+                     <hi>Sir</hi> R. L<hi>'s. Ed. p.</hi> 143.</bibl>
+               </q>
+               <q>
+                  <p>
+                     <hi>Be ſure to obſerve this Duty as inviolable and ſacred, never to have any thing to do in expoſing of</hi> Innocent Blood. <hi>For it is a Crime that no colour in the World can juſtify; for what can be ſo inhuman as to turn the Faculties of Reaſon and Eloquence, that were given us for the Benefit and Conſervati<g ref="char:EOLhyphen"/>on of Mankind, to be the Ruine and Deſtruction of honeſt Men.</hi>
+                  </p>
+                  <bibl>ibid.</bibl>
+               </q>
+            </epigraph>
+            <p>THE Author of the three ſham Vindications of the <hi>Magiſtracy</hi> and <hi>Government of England,</hi> in his laſt, eſpecially, ſets up for a <hi>Wit,</hi> in his way of expoſing Mens Perſons; a <hi>Lawyer</hi> in colouring over the moſt outragious Attempts upon Mens Lives, and Aſſaſſinations under Pretext of Law, with a falſe ſhew of al<g ref="char:EOLhyphen"/>lowable
+<pb n="2" facs="tcp:61680:2"/> Precedents; and a <hi>Politician,</hi> in an awkard Recommendation of a
+<hi>ge<g ref="char:EOLhyphen"/>neral, indefinite Act of Oblivion,</hi> whereby he would have the greateſt Criminals freed even from <hi>Marks of Diſgrace,</hi> as if that were poſſible, when ſuch Men,
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag. 4.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. 5.</note> like <hi>Cain,</hi> will ever carry their <hi>Marks</hi> about them. But as he would have the <hi>Oblivion indefinite,</hi> it muſt be meant in relation to Time as well as Perſons; and no doubt but he would have all endeavours for the Subverſion of the preſent Government pardoned; and yet preſſes this in ſuch a manner, as brings one excep<g ref="char:EOLhyphen"/>tion at leaſt, in himſelf; whilſt he vilifies our happy Settlement, as founded on a bottom which makes the pardoning of Criminals in former Reigns neceſſary for its juſtification and ſubſiſtence, and indeed the parting with all the Laws of this Nation, not enacted ſince the <hi>Abdication,</hi> for that if every <hi>thing</hi> were not <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag. 8. <hi>I'll not
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ention the Ar<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ent from the</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acancy, <hi>that <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Government
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as diſſolved,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery thing redu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d into its pri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itive State of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lature, all pow<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> devolved into
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dividuals, and be Particulars only to provide for themſelves by a new Contract, for if ſo;</hi> there's yet <hi>no new conſent for Puniſhment <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f acts done before the Diſſolution, and conſequently Revenge, for that is at an end; Indemnity therefore ought to be pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oted by thoſe who made that Vote, for otherwiſe their Truth may be ſuſpected,</hi> &amp;c.</note> reduced to its <hi>Primitive ſtate of Nature</hi> upon the breach of the Contract and va<g ref="char:EOLhyphen"/>cancy of the Throne, which was voted by the <hi>Convention</hi> as the foundation of its Proceedings, then the late King had not broken the Contract (a total Diſſoluti<g ref="char:EOLhyphen"/>on of the Government being ſuppos'd inſeparable from ſuch a Breach.) Nor was there ground for declaring King <hi>William</hi> and Queen <hi>Mary</hi> our King and Queen, and for the Parliament afterwards to enact, that Their Majeſties having accepted the Crown <hi>were, are, and OF RIGHT ought to be,</hi> by the Laws of this Realm, <hi>our Sovereign Liege Lord and Lady,</hi> &amp;c. <note n="†" place="margin">
+                  <hi>Bill of Rights</hi>
+1. W. M.</note>
+            </p>
+            <p>Upon this, the Obſervation is very natural that this Gentleman is more con<g ref="char:EOLhyphen"/>cern'd for the Criminals in former Times, than for the Honour and Support of this Government. What pity is it that the late C. <hi>J.</hi> died with Reproach, and did not live to be cleared by this
+<hi>Advocate</hi> that he might put in for a Man of Merit now, for his <hi>Truth, Probity</hi> and
+<hi>
+                  <g ref="char:V">Ʋ</g>ſefulneſs!</hi> ſome no doubt think it were better that he ſhould ſtill be Chancellor, than that the Great Seal ſhould be in <hi>Commiſſion,</hi> bearing a reſemblance of a Common-Wealth, not much unlike the Peoples declaring for King <hi>William</hi> and Queen <hi>Mary;</hi> for wherever the Power or Title is lodged in more than one, they will have it a departure from the Mo<g ref="char:EOLhyphen"/>narchy. And thus there muſt be one <hi>Chancellor,</hi> one
+<hi>Treaſurer,</hi> and the King and Queen muſt be one Perſon by a myſterious Union.</p>
+            <p>But to return to our Author, he not only ſcandalouſly reflects upon our Set<g ref="char:EOLhyphen"/>tlement, but directly Libels the Bill of Rights, which declares, That <hi>the late King, by the Aſſiſtance of divers evil Counſellors, Judges and Miniſters employ<g ref="char:EOLhyphen"/>ed by him, did endeavour to ſubvert and extirpate the Proteſtant Religion, and the Laws and Liberties of this Kingdom:</hi> And yet being conſcious, that at leaſt, part of the Charge againſt evil Inſtruments, would equally fit ſome who were very active to thoſe ends in the Reign of <hi>C.</hi> II. while they could keep on the Mask of Service to the <hi>Church;</hi> ſtrongly labours to have it believed, that all ſuch <note place="margin">Pag. 2.</note> Reflections upon the <hi>Servants of former Crowns,</hi> made by any private Perſons, proceed from <hi>vitiated Sentiments,</hi> are but
+<hi>the Clamours of Male-contents, with</hi>
+               <pb n="3" facs="tcp:61680:2"/> 
+               <hi>the addition of Sareaſm inſtead of Argument, and bluſhleſs Lies inſtead of Law and Precedents,</hi> downright <hi>Libels criminal, and injurious to common Juſtice.</hi> 
+               <note place="margin">Pag. 2.</note>
+            </p>
+            <p>According to which, either the Cenſure paſs'd by the <hi>Parliament</hi> upon
+<hi>Ser<g ref="char:EOLhyphen"/>vants</hi> of the <hi>late King</hi> is not true, or elſe the ſame things become falſe if menti<g ref="char:EOLhyphen"/>oned by private Perſons.</p>
+            <p>For him to clear his Pretences either to <hi>Wit, Law,</hi> or <hi>Policy,</hi> it might be re<g ref="char:EOLhyphen"/>quiſite to learn to reaſon like a Man; for he muſt not fancy that this thinking Age can be impos'd upon with a few glittering Periods, hanging together like a Rope of Sand; eſpecially when they want a practis'd motion of the Head and Hand, a Cadence meaſur'd to the breath, and a tuneful Accent to ſet them off, by the help of which; one who can't write common Senſe may paſs for an Orator in ſpeaking: I am ſure had he not been better vers'd in <hi>Rhetorick</hi> than <hi>Logick</hi> he would never have argued thus. For <hi>Lawyers to note</hi> and report Abuſes of <note place="margin">Pag. 1.</note> the Law in former Reigns, <hi>under the pretence of ſerving Their Majeſties,</hi> is <hi>meer Pretence:</hi> Mark one of the convincing Reaſons;
+<hi>For firſt it's not their Pro<g ref="char:EOLhyphen"/>vince; theſe Publications are made by them, not as Legiſlators or Judges, but [as private Perſons.]</hi> As if [private Perſons] muſt ſtay for Commiſſions to ſerve their Countrey in their civil Profeſſions or Studies, as well as in the Wars upon ordinary occaſions; and without ſuch Authority their Services can never be real, or really intended. To have this paſs into a Law indeed would be uſe<g ref="char:EOLhyphen"/>ful Policy for ſuch times as he is concerned for; but at preſent Men are to ſeek of the Reaſon why what a private Perſon does with the greateſt Sincerity and Application of Mind, for the Service of his Countrey, and Information of Poſterity, ſhould be but a <hi>Pretence</hi> meerly becauſe he is a <hi>[private Perſon.]</hi>
+            </p>
+            <p>I here give but a taſte of his way of Reaſoning, but ſhall have occaſion to expoſe it more fully where he would be thought to argue with the greateſt Strength.</p>
+            <p>But ſince this <hi>falſe Reaſoner,</hi> and Perverter of Law to the worſt of purpoſes,
+<note place="margin">Pag. 4. <hi>I'll plague the Worl. no more with writing on th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dull, flat, un<g ref="char:EOLhyphen"/>profitable Sub<g ref="char:EOLhyphen"/>ject,</hi> &amp;c. Pag. 1. <hi>The Ce<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſors unworthy
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> being their Bag<g ref="char:EOLunhyphen"/>bearers,</hi>
+               </note> as I ſhall ſhew beyond contradiction, has oblig'd the World with a Promiſe to <hi>plague</hi> it no more on the Subject of his three Papers; it might ſeem a fooliſh <hi>Bravado</hi> to appear in the Field after him, did not his withdrawing proceed from a vain confidence of an entire Victory, and inſolent contempt of thoſe whom he leaves to be chaſtis'd by his, or his Patrons,
+<hi>Bag-bearer;</hi> and would run down with Terms of Reproach, which generally argues a baffled Cauſe, and is the laſt Refuge againſt Reaſon and Authority.</p>
+            <p>Some who underſtand no <hi>Poetry</hi> rais'd above the Pſalms, with the Verſion, <hi>by Law eſtabliſh'd,</hi> think that in calling a Man <hi>Poet,</hi> they muſt neceſſarily level <note place="margin">
+                  <hi>Third part</hi> p.: <hi>Second part</hi> p.: <hi>ſpeaking of a Great Man's Paper, where he, or his Frien<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is touch'd. As to the Wit of it moſt of his Readers are at a loſs to find it, unleſs it be in his Engliſh Verſes, which <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo hit the ſenſe of the Original, and contain ſuch ſtrong and pregnant Flights of Engliſh Poetry, that ſome of his Re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ders have compared them even with</hi> Sternhold <hi>and</hi> Hopkins, <hi>and others are of opinion that they do not come ſhort of t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eſſays of two</hi> Grays-Inn-Poets, <hi>one of which tranſlated</hi> Grotius, De veritate Chriſtianae Religionis.</note> him to a <hi>Sternhold</hi> or an <hi>Hopkins.</hi> Neither <hi>Grotius</hi> nor Sir <hi>Matthew Hales</hi> ſhall paſs for Inſtances, that ſome have written in Verſe upon grave and uſeful Subjects, without being Triflers in every thing.</p>
+            <p>
+               <pb n="4" facs="tcp:61680:3"/> Yet they who treat with Scorn all thoſe who have ever verſified, tho with the common Allowances for their Years, are themſelves more truly <hi>Poets,</hi> and given to
+<hi>Fiction</hi> in their Calumnies; thus paſſing by <hi>Blood-Hounds, Bellowers for Vengeance, Barking Currs, Popular Bullies,</hi> and the like, as only the com<g ref="char:EOLhyphen"/>mon <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>age</hi> 4, 5, 6.</note> Ornaments of his Style; he ſays of thoſe His <hi>Majeſty</hi>'s Servants, who have ſteadily adher'd to his, and his Kingdom's Intereſt, it is <hi>now pretty plain,</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag. 2.</note> that <hi>tho they might love His Majeſty when, and as Prince, yet they do not, will not, cannot love him, or any Man elſe, as King.</hi>
+            </p>
+            <p>Where is the Evidence of this? Did they oppoſe his coming to the Crown? Or have they denied his Title ſince, or the Foundation of it? Which this Author ridicules. And while he would turn his Majeſty's Heart againſt his beſt Subjects, not only would thereby force him into the Hands of his Enemies, but in his railing Accuſations againſt thoſe whom he calls
+<hi>Republicans,</hi> truly imitates the <hi>Grand Accuſer,</hi> who took the very ſame method againſt <hi>Job:</hi> from whom he deſir'd the <hi>Almighty</hi> to withdraw his Protection, and then he did not doubt but his old approved Servant would curſe him to his <hi>Face.</hi> Men of leſs Patience than <hi>Job</hi> would have ſunk under the Trial; but God foreſaw that it would tend to his own Glory and that good Man's Benefit: But it is not to be thought that His Majeſty will make the Experiment to gratify or encourage his Enemies, or them who boldly diſpute the very Foundation of his Title. With the ſame <hi>Poeti<g ref="char:EOLhyphen"/>cal Licenſe,</hi> they who in any <hi>Corporation</hi> came, by due Election of ancient Mem<g ref="char:EOLhyphen"/>bers, into unprofitable Offices
+<hi>vacant</hi> of <hi>Surrenderers,</hi> are call'd <hi>Regulators:</hi> but they who projected the <hi>Regulations,</hi> and others who made <hi>Surrenders</hi> in purſuance of the Project, were ſo innocent that he begs pardon in calling what might be inflicted upon ſuch,
+<hi>Puniſhments,</hi> and no doubt they would be as <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag. 5.</note> good Martyrs as St. <hi>Becket.</hi>
+            </p>
+            <p>But to give a naked Repreſentation of Fact, concerning ſuch as thought them<g ref="char:EOLhyphen"/>ſelves part of a former violent Government, is ſuch <hi>Confidence and exorbitant Malice,</hi> as <hi>extorts a Check,</hi> and that perhaps from no meaner an <hi>Orator</hi> than <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag. 3.</note> one who has been ſucceſsful in improving <hi>[no Fact]</hi> into Treaſon, and turn<g ref="char:EOLhyphen"/>ing <note place="margin">
+                  <hi>Vid. the Trials of Ld.</hi> R. <hi>Col.</hi> S. <hi>Mr.</hi> C. <hi>Ld.</hi> B.</note> the <hi>Fact</hi> directly in proof for a Perſon accus'd, to ſupply a defective Evi<g ref="char:EOLhyphen"/>dence againſt him; and to make that very defect, with an artful Varniſh, to ſet off a Witneſs who was manifeſtly perjur'd, having ſworn at one Trial the contrary to what he had ſworn at another.</p>
+            <p>They who have ſuch admirable Talents at making Traitors may be ex<g ref="char:EOLhyphen"/>cuſeable in making as many
+<hi>Lunaticks</hi> as they pleaſe, the work is eaſy, 'tis but giving the word among a
+<hi>Party</hi> and the Buſineſs is done, and then tis im<g ref="char:EOLhyphen"/>poſſible <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag. 3.</note> for one ever to be thought to ſpeak or write Senſe; but as the true Judgment concerning <hi>Lunacy</hi> is not to be taken from things depending upon chance, but from the regular or irregular exerciſe of the Faculties of the Mind; Perhaps it may be no great queſtion with any who can judg for themſelves, which has diſcover'd moſt of the <hi>Lunatick,</hi> the Author of the new <hi>Non-Con<g ref="char:EOLhyphen"/>formiſt,</hi> or the <hi>Vindicator.</hi> He who believing that all private Conſiderations ought to yield to the Service of his Country, had liſted himſelf early, though without Pay, in hopes at leaſt that ſince he was reſolved never to riſe upon its Ruines, it might not be the worſe for him that he had contributed his utmoſt
+<pb n="5" facs="tcp:61680:3"/> to its Flouriſhing; and finding the Enemies to its Peace, or thoſe who are ig<g ref="char:EOLhyphen"/>norant of its fundamental Conſtitution, to have inſtill'd into Mens Minds No<g ref="char:EOLhyphen"/>tions inconſiſtent with our Settlement, thought he might with <hi>Safety</hi> and <hi>Pri<g ref="char:EOLhyphen"/>viledg</hi> defend its true Foundation; who cannot get out of his Head the belief that they who would make the Faults of Miniſters in the late Reigns doubtful, would have it doubtful whether the Throne was
+<hi>Vacant,</hi> by reaſon of any Act of the late King; and who thinks that they who juſtify the bare fac'd Violati<g ref="char:EOLhyphen"/>ons of the Conſtitution in thoſe Times; do it either as they plead for themſelves, or out of Affection to the late Government, and it's evil Inſtruments: Or he who beſides the intemperance and indecency of his Stile, and weakneſs of his Arguments, ſeems to hope to make his Court to this Government by clear<g ref="char:EOLhyphen"/>ing all that were acceſſary to the Male-adminiſtration formerly; as if the late King alone did all the wrong, which occaſion'd and juſtifies our Delive<g ref="char:EOLhyphen"/>rance, or that this King were beholden to their good Intention, who by joyning in the former Violences made way for him; or rather, that ac<g ref="char:EOLhyphen"/>cording to this Author's Inſinuation, <hi>Lyes</hi> are the only <hi>Baſis of reſpect</hi> to him as <hi>King:</hi> Who would have <hi>the Servants of former Crowns</hi> as ſacred <note place="margin">Pag. 1.</note> as ſuch Men make their ſuppoſed King of <hi>Right,</hi> and would have free Truths of
+<hi>Miniſters, Officers and Inſtruments of Juſtice,</hi> in paſs'd Reigns to be
+<hi>Libels,</hi> while at the ſame time he boldly Reflects upon the <hi>Miniſters</hi> in this Reign as acting contrary to the <hi>Bill of Rights,</hi> in ſome Patents which <note place="margin">Pag. 8.</note> could not have paſſed the Seal without Warrants or Bills ſign'd by his <hi>Ma<g ref="char:EOLhyphen"/>jeſty,</hi> or Pretences of them by a Secretary of State.</p>
+            <p>What leſs than Lunacy can this be imputed to, unleſs he unmask and ſhew that he will not own <hi>K. William</hi> to be <hi>lawful</hi> and <hi>rightful</hi> King, and think his Party ſtrong enough to maintain him in it? which appears much more plainly than any thing he lays to the charge of others, not only by the above mentioned Reflections upon the preſent
+<hi>Government</hi> and <hi>Mini<g ref="char:EOLhyphen"/>ſtry</hi> while he excuſes the former; but from his holding it fitting that Words alone ſhould be accounted Treaſon in late Reigns, but <hi>waving its</hi>
+               <note place="margin">Pag. 2.</note> 
+               <hi>Eviction</hi> in this <hi>for fear of a ſtrained uſe of ſuch Opinion to ill Purpoſes:</hi> Whereas, if it were or might be applied to a good purpoſe for ſupporting of a former <hi>Government,</hi> or <hi>Miniſtry,</hi> one would think it might to at leaſt as good purpoſe be applied now. And how well he thinks of the Inſtruments in the late Revolution, any Man may judg when he calls thoſe who were Active in contributing to it, or encouraging others, <hi>Bellowers</hi> for <hi>Vengeance;</hi> this 'tis plain is the gentle rebuke which he gives both <note place="margin">Pag. 6.</note> 
+               <hi>Parties</hi> in the late Houſe of Commons, who agreed on Heads under which ſome ſhould be excepted out of the Act of
+<hi>Indemnity,</hi> which he will have to bring their Honour in queſtion, becauſe while they did this they took care of ſuch as he calls their <hi>Servants, for all their Exceſſes upon the Re<g ref="char:EOLhyphen"/>volution,</hi> for which he refers to the Act of Parliament.</p>
+            <p>To purſue the Enquiry after the <hi>Lunatick,</hi> I may add what leſs than <hi>Lunacy</hi> could make him expect to have them damn'd for <hi>Republicans,</hi> who for the ſake of the common Good carried it for this <hi>King</hi> to reign over them? and to have it believed that they could not love him as <hi>King,</hi> but <note place="margin">Pag. 5.</note>
+               <pb n="6" facs="tcp:61680:4"/> barely as <hi>Prince of Orange,</hi> while they who were for keeping him ſtill
+<hi>Prince of Orange,</hi> ſhould be thought the only Men that love him, as King, becauſe he is what they deſir'd and labour'd that he ſhould never be? By ſuch a mad ſort of reaſoning the <hi>Regency-Men</hi> who were for making him <hi>Regent</hi> or <hi>Protector</hi> by the Power of the People, without Authority from any King, are the only Lovers of <hi>Monarchy.</hi> Indeed abſolute or deſpotick Monarchy is the beſt means to juſtify their open defiance of all Laws: Nor can any <hi>King</hi> but a <hi>Tyrant</hi> ſerve their Turns, and yet if he fall in<g ref="char:EOLhyphen"/>to the Hands of any other Faction, none more ready than they to riſe a<g ref="char:EOLhyphen"/>gainſt him.</p>
+            <p>But what Monarch they are for, may be known without conſulting <hi>Pro<g ref="char:EOLhyphen"/>phecies,</hi> and how much ſoever this Writer may ſlight that Collection of <note place="margin">Pag. 3. <hi>He hath added a little of the Lunatick, as appears by his Rhimes, Prophe<g ref="char:EOLhyphen"/>cies,</hi> &amp;c. <hi>Vid. the Preface to</hi> Noſtredamus, &amp;c.</note> Predictions and Concurrence of Events, which one would think might ſurprize and ſtartle the greateſt Unbelievers, and have had weight with more than <hi>Viſionairs;</hi> yet he would do well to anſwer thoſe <hi>Authorities</hi> joyn'd to them, ſhewing our preſent Settlement to be according to the Con<g ref="char:EOLhyphen"/>ſtitution of this ancient <hi>Monarchy,</hi> and by way of Anticipation ſilencing the folly, not to ſay
+<hi>Lunacy,</hi> of the dangerous Suggeſtion, that no Criminals in former Reigus ought to be puniſhed becauſe of the Diſſolution of the Contract between the late King and the People of
+<hi>England;</hi> as if that diſſolv'd <hi>the Government,</hi> and every thing were
+<hi>thereby reduced into its primitive State of Nature.</hi> And I fear ſome Vindicators of the late Go<g ref="char:EOLhyphen"/>vernment or of its Miniſters, will not allow that we yet have any Law or legal Adminiſtration.</p>
+            <p>A little Reading in thoſe Politicks which he reflects upon, might have taught him more Senſe out of one of the Ornaments of the preſent Age. <hi>Pufendorf;</hi> of whoſe Name and Writings perhaps he knows as little as that <note place="margin">Sam. Pufendorf de Interregnis <hi>Pag.</hi>
+267. Poſt decretum circa formam regi<g ref="char:EOLhyphen"/>minis novo pacto opus erit, quando conſtituuntur ille vel illi, in quem vel in quos, regimen caetus confertur. <hi>And</hi> Pag. 282. <hi>They who have come together into a Civil Society,</hi> &amp;c. <hi>cannot be preſum'd to have been ſo ſlothful as to be willing to have their new Society extinct upon the Death of a King, and to return to their natural State and Anarchy,</hi> &amp;c.</note> the <hi>Great Grotius</hi> has left behind him a Book of Poems, nay that his admirable Treatiſe of the Truth of the Chriſtian Religion was, as he tells his Friend <hi>Bignonius</hi> at the beginning of it, but an account of what he had written in <hi>Dutch-Verſe.</hi>
+            </p>
+            <p>Some will think this Writer's own concern tranſported him beyond all Rules of Sobriety, if not to frenzy and raving, where he talks of <hi>Blood-heunds fretting, huffing, bouncing, while they foam Curſes and Execrations.</hi>
+            </p>
+            <p>Good, Gentle, ſoft Sir! what is the matter? what are you repeating in <note place="margin">Pag.
+4.</note> your ſleep an harangue againſt the Lord <hi>R.</hi> Colonel <hi>S.</hi> Mr.
+<hi>C.?</hi> or do their Ghoſts appear and put you into this diſorder? or, to uſe your own Epithete, is it only a <hi>[religionary]</hi> Dream?</p>
+            <p>But ſince the Caſe of the <hi>New-Non-Conformiſt</hi> meeting with a diſturb'd Imagination, ſeems to this <hi>Gentlemen</hi> written by one <hi>inſpired with Venom and Revenge, even the pure Spirit on't;</hi> I ſhall tranſcribe that paſſage which
+<note place="margin">Pag. 1.</note>
+               <pb n="7" facs="tcp:61680:4"/> he refers to, and leave it to the Reader's Judgment, whether there is in it any one Reflection made by the Writer of that Caſe, or any thing more than a true State of Fact ſet in a clear Light; and thereby perhaps expos'd to the juſt Abhorrence of all who are not involv'd in the like Guilt, or ſworn to a <hi>Party.</hi>
+            </p>
+            <p>Dr. <hi>Sherlock</hi> having declar'd in his Pulpit that he had the advice of <hi>E<g ref="char:EOLhyphen"/>minent Lawyers</hi> for his preaching after the Deprivation incurr'd by the Sta<g ref="char:EOLhyphen"/>tute, it ſeemed not improper to enquire what ſort of <hi>Lawyers</hi> would give ſuch advice, that the weight of their advice might be the better under<g ref="char:EOLhyphen"/>ſtood to remove the prejudice of ſuch Authority againſt the expreſs Words of a Statute. <hi>Page</hi> 10. which the Vindicator cites has this
+<hi>Query.</hi>
+            </p>
+            <q>
+               <p>Whether another of the Lawyers had not maintained in order to take away Mens Lives, that
+<hi>Scribere eſt agere,</hi> Writing is an overt Act of Treaſon <note place="margin">
+                     <hi>New Non-Conf.</hi> pag. 10.</note> within the <hi>25th</hi> of <hi>Edw.</hi> 3. That though in the Judgment of ſeveral Parliaments it has been found needful to have temporary Laws to make WORDS ſpoken or written OVERT ACTS of Treaſon, yet NO MAN EVER DOUBTED BUT WORDS ALONE may be Acts of Treaſon within 25 <hi>Edw.</hi> 3.</p>
+               <p>That how manifeſt ſoever the Diſtinction of kinds of Treaſon be within the Statute; whatever the Opinion of the Lord <hi>Coke,</hi> or the Caſe of the late or any former
+<hi>Revolution,</hi> yet NO MAN EVER DOUBTED, but a Conſpiracy to levy War is a Conſpiracy againſt the Life of the King within that Act.</p>
+               <p>That the meeting where the levying War was diſcourſed of, without proof of the
+<hi>Parties</hi> knowing the end of the meeting; and a bare Agree<g ref="char:EOLhyphen"/>ment in others of the Company to ſeize Guards not eſtabliſhed by Law, were OVERT ACTS within the Statute, in a Perſon againſt whom no Words or Deeds were prov'd, expreſſing his conſent to any ſuch Mat<g ref="char:EOLhyphen"/>ter.</p>
+               <p>And to crown the whole, that notwithſtanding the expreſs Proviſion of the Statute 13
+<hi>Car.</hi> 2. that NO PERSON ſhall incur the Penalties men<g ref="char:EOLhyphen"/>tion'd <note place="margin">13 Car.
+2. <hi>c.</hi> 1.</note> in that Act, unleſs he be proſecuted within <hi>ſix Months,</hi> and indicted within three after ſuch Proſecution; yet a Man might have been lawfully proſecuted for Treaſon within that Act, after the ſix Months.</p>
+            </q>
+            <p>The Fact in Relation to the Perſon whoſe defence the Vindicator un<g ref="char:EOLhyphen"/>dertakes, is not diſputed by him, and here being nothing but Fact it may eaſily appear to whom the
+<hi>Confidence</hi> and <hi>Malice</hi> belongs. But to write <note place="margin">Pag. 3.</note> truth of a Man whoſe Green-bag one is not worthy to bear, is confi<g ref="char:EOLhyphen"/>dence, <note place="margin">Pag.
+1.</note> and if that truth has a ſting from the Nature of the Thing, or revives one in the Conſciences of them who are concern'd in it, it muſt be <hi>Malice.</hi>
+            </p>
+            <p>The <hi>Vindicator</hi> comforts himſelf that the Indictment is here ommitted
+<note place="margin">Pag. 4.</note> legal: there being no mention of it, as indeed there was no Occaſion; for an innocent Man may be barbarouſly hurried out of the World upon a legal Indictment: and no Man that I know of, ever troubled himſelf to enquire whether Mr.
+<hi>Corniſh</hi> his Indictment were legal or no; ſo that
+<pb n="8" facs="tcp:61680:5"/> the Indictment was not in the leaſt to the enquiry: A legal Indictment could not excuſe the Particulars there enumerated, nor could an illegal one aggravate the Charge.</p>
+            <p>But according to the <hi>Vindicator's</hi> own rule, all which is wav'd is admitted unanſwerable, and therefore he applying himſelf only to the defence of making <hi>Words alone</hi> Treaſon, yields up the cauſe as to all the other Matters, which one would have thought it had lain upon him either to deny or maintain.</p>
+            <p>Nay he yields the cauſe in part even in Relation to Words, for he does not now juſtify that it was <hi>never a doubt,</hi> but Words <hi>alone</hi> may make Treaſon within 25 <hi>Edw.</hi>
+3. which was poſitively aſſerted at the Ld. B's Tryal. Nay farther even where he addreſſes himſelf to prove the Law to be, that Words alone may make Treaſon, he now adds Words <hi>deliberately, maliciouſly, and adviſedly ſpoken on purpoſe to accompliſh the demiſe of the King,</hi> which either ſuppoſes ſome Evidence of the Intention beſides the Words, or elſe is very impertinently added. Certainly it lies upon him to prove that Words alone ſpoken by a ſingle Perſon, without any other Proof than what ariſes from the Words themſelves, may make Treaſon, and therefore what may be thought if another accept of a Pro<g ref="char:EOLhyphen"/>poſal to deſtroy the King, is a queſtion very idly put to them, whom ac<g ref="char:EOLhyphen"/>cording to his uſual Flowers, he calls <hi>Apologiſts for Treaſon.</hi>
+            </p>
+            <p>His whole Apology for what he takes to be his moſt defendable part, amounts to no more than this:
+<q>No <hi>Man ever doubted</hi> but Words a<g ref="char:EOLhyphen"/>lone may make Treaſon, becauſe <hi>ſome have held</hi> that Words alone may make Treaſon; for no Man ever doubted what ſome have held: how<g ref="char:EOLhyphen"/>ever, no Man ſhall doubt it hereafter, becauſe of my Demonſtration from the very Words of the Act, which becauſe of the <hi>Dignity</hi> of the Perſon, I ſhall firſt conſider.</q>
+            </p>
+            <p>
+               <hi>By all the Grammatical and other Rules for Interpretation of the ſenſe of Words,</hi> the latter part of a Sentence <hi>is to be conſtrued [if uſed by way of</hi> 
+               <note place="margin">Pag. 3,</note> 
+               <hi>Oppoſition] as oppoſite to the Thing mention'd and intended in the foregoing part.</hi> From this rule he would infer that the compaſſing or imagining be<g ref="char:EOLhyphen"/>ing to be evidenc'd by <hi>overt Fact,</hi> it follows that Words are ſuch an <hi>overt Fact</hi> or open deed, ſhewing the Intention or Imagination of the Mind, as the Statute requires: Why ſo good Sir? But,</p>
+            <p n="1">1. It will be hard for him to ſhew, that the OVERT FACT being brought for proof of the Thoughts muſt be taken by way of oppoſition to the Thoughts: What neceſſity is there that the Proof muſt be uſed by way of Oppoſition to the thing to be proved? Nay is it not contrary to the nature of a Proof? You might almoſt as well ſay, I will prove a thing to be white becauſe it is black.</p>
+            <p n="2">2. If this were to be taken oppoſitely ſtill there muſt be an other thing begg'd, which is, that Words are oppoſite to Thoughts, for unleſs they are, it will not follow that Words are in the leaſt implied, when we ſay what is oppoſed to Thoughts in the firſt part of the Sentence, is intended in the latter.</p>
+            <p>But becauſe there is required ſome evidence to prove the Thoughts of the Heart, he will have it that Words muſt needs be ſuch evidence as is meant, when
+<pb n="9" facs="tcp:61680:5"/> Deeds only are mentioned: or becauſe Deeds are not oppoſed to, or rather men<g ref="char:EOLhyphen"/>tioned as different from, Words, but Thoughts, therefore Words are Deeds. It is obvious to obſerve, that this his Confuſion proceeds from not advancing be<g ref="char:EOLhyphen"/>yond his Grammer to
+<hi>Logick,</hi> which would have taught him to diſtinguiſh be<g ref="char:EOLhyphen"/>tween things <hi>oppoſite</hi> and only <hi>different:</hi> and it cannot but be known that <hi>Di<g ref="char:EOLhyphen"/>vines, Moraliſts</hi> and
+<hi>Lawyers</hi> have always carefully taken <hi>Thought, Word</hi> and <hi>Deed</hi> as different, and falling under diſtinct Conſiderations.</p>
+            <p>But for farther proof that Words may be Deeds, he wiſely obſerves, That <hi>a Man never ſpeaks without Action or Motion,</hi> whereby he leaves out Words as <note place="margin">Pag.
+3.</note> oppoſite to Thoughts, but admits that Deed only is us'd in <hi>oppoſition</hi> to Thought; ſo that ſuppoſing the latter part of the Sentence ought to be taken by way of oppoſition, which I deny, then the queſtion is, whether <hi>Words</hi> are <hi>Deeds</hi> or Facts. If every thing that is with Action be a <hi>Deed,</hi> then the Acts of the Mind, the very Thoughts are Deeds too, which will encreaſe the Confuſion. But as that Motion of the Animal Spirits, which contributes to Thoughts, paſſes into the nature of Thoughts, ſo that Motion or Action, which accom<g ref="char:EOLhyphen"/>panies Words, paſſes into the nature of Words, and is but the mode of ſpeaking. Of which <hi>Staley</hi>'s Caſe is a pregnant Inſtance; He was indicted upon the Statute 13. <hi>Car.</hi> 2. for theſe Words, <hi>The King is a great Heretick, and the greateſt</hi> 
+               <note place="margin">Staley<hi>'s Caſe</hi> 30. C. 2. 21. <hi>n.</hi> 78.</note>
+               <hi>Rogue in the World; here's the Heart and here's the Hand, that would kill him.</hi> And it was ſworn that he laid his Hand on his Breaſt, ſtretch'd out his Arm, and ſtamp'd with his Foot five or ſix times; and yet all theſe Actions only accompa<g ref="char:EOLhyphen"/>nying his ſpeaking, they were never look'd upon as OVERT ACTS within 25. <hi>E.</hi> 3.</p>
+            <p>This Gentleman will have it that meeting at a <hi>Conſult,</hi> or where a Conſpira<g ref="char:EOLhyphen"/>cy
+<note place="margin">Pag. 4. Vid. <hi>Ld.</hi> Coke. <hi>and Sir</hi> Mat<g ref="char:EOLhyphen"/>thew Hales
+<hi>contra.</hi>
+               </note> is hatch'd, and nothing done in purſuance of the Conſpiracy is Treaſon; but as this is brought to prove that Words alone may be Treaſon, 'tis at the beſt but proving one thing in queſtion, by begging another thing in queſtion.</p>
+            <p>But he is not more Illogical in his Reaſoning, than he is Foul in his Quota<g ref="char:EOLhyphen"/>tions; after he thinks he has proved by dint of Argument that Words are an <hi>Overt Fact,</hi> nor ſays he, doth
+<hi>Hugh Pyne</hi>'s <hi>Caſe contradict this, notwithſtanding the confidence of the Remarker that it did, they only ſay that the Words in that Caſe were not Treaſon,</hi> &amp;c. but ſtrongly imply other Words might, but ſee at whoſe Door the <hi>Confidence</hi> lies: he preſum'd upon the Rea<g ref="char:EOLhyphen"/>ders belief of <hi>his Veracity,</hi> but if any Man will truſt his own Eyes where he finds matter to queſtion his aſſertions he may ſee that it was in that Caſe ſo<g ref="char:EOLhyphen"/>lemnly reſolved 4 <hi>Car.</hi> 1. by all the Judges upon full Conſideration of all the
+<note place="margin">Crook<hi>'s</hi> Car. <hi>from fol.</hi> 83. <hi>to</hi> 89.</note> Precedents which could be produced, that <hi>unleſs it were by ſome particular Statute [no Words] will be Treaſon.</hi>
+            </p>
+            <p>Notwithſtanding this Reſolution, The <hi>Vindicator</hi> flouriſhes with four
+<note place="margin">Pag. 2.</note> Caſes particularly there conſidered, not obſerving the way by which he would ſilence all Re<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s of unjuſt Judgments, where he tells us we have no Rule but <hi>ex ore judicum, or from particular Statutes,</hi> and of them <hi>they are the Expoſiors:</hi> he ſhould have added, or the Arguments of the King's Council. But certain it is that <hi>Pyne</hi>'s Caſe ought at leaſt to have prevented the Aſſertion, that <hi>no Man ever doubted,</hi> but Words alone may make Treaſon within 25 <hi>Edw.</hi> 3. and being the laſt ſolemn Authority in the
+<pb n="10" facs="tcp:61680:6"/> Point, it's very hard to have it inſiſted on as clear Law, that <hi>Words alone may make Treaſon</hi> within 25 <hi>Eliz.</hi> to the miſleading perhaps a well mean<g ref="char:EOLhyphen"/>ing Jury upon a Man's Life.</p>
+            <p>This fully ſets aſide all the force that might be in the Opinion of the King's
+<hi>Council</hi> and <hi>Courtiers,</hi> 1 <hi>Jac.</hi> 1. when a temporary Act was mov'd in the Houſe of Commons to make Words Treaſon, and not inſiſted on becauſe the Houſe turn'd it off as needleſs: but whoever reads the Ld. <hi>Bacon</hi>'s <hi>Reſuſcitatio,</hi> will find how much it was the care of the King's <note place="margin">Bacon's Reſuſ<g ref="char:EOLhyphen"/>citatio, <hi>Letters, fol.</hi> 48.</note> 
+               <hi>Council</hi> at that time to have it ſo, and how immoveable the Chief Ju<g ref="char:EOLhyphen"/>ſtice <hi>Coke</hi> was againſt it.</p>
+            <p>He cites indeed the Caſe of <hi>Arthur Crohagan</hi> after <hi>Pynes,</hi> but with his
+<note place="margin">Crook<hi>'s</hi> Car. 9. Car. 1.</note> uſual <hi>Veracity;</hi> for
+<hi>Crohagan</hi> after he had ſaid poſſitively he would <hi>kill</hi> K. <hi>Charles</hi> of
+<hi>England,</hi> came out of <hi>Spain</hi> into <hi>England;</hi> which was look'd on as coming to that very Purpoſe, and was as much an <hi>overt Act</hi> as if a Man, after ſuch Declaration, ſhould lie in wait for the King with Arms.</p>
+            <p>Then he heaps ſeveral <hi>Authorities</hi> of Actions on the Caſe brought for affirming that Men ſpoke Treaſon: all the Caſes before <hi>Pyne</hi>'s Caſe, and beſides whatever might be ſaid in thoſe Caſes <hi>Obiter,</hi> the jett of the Action did not lie that to ſpeak Treaſonable Words is Treaſon; but <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat it is pu<g ref="char:EOLhyphen"/>niſhable, as no doubt it is by Fine or otherwiſe under Death; and therefore the Action would well lie for the damage to the Party.</p>
+            <p>And yet where in ſuch caſe the Defendent has juſtified upon Words ſpo<g ref="char:EOLhyphen"/>ken, the Reſolution has been quite contrary to what has been declar'd by the by; Thus whereas in
+<hi>Blanch Flower's</hi> Caſe cited by him, it is held <note place="margin">Yelverton<hi>'s</hi> Rep. <hi>fol.</hi> 107. 5. Jac.</note> Treaſon to ſay the King is a <hi>Baſtard,</hi> or has no Title to the Crown; be<g ref="char:EOLhyphen"/>cauſe <hi>this may draw Subjects from their Allegiance and Engender mutiny in the Realm;</hi> yet it was held in the Caſe of <hi>Smith</hi> and <hi>Whitbrook</hi> upon a Demurrer, that it was no Juſtification that the Plantiff had ſaid <note place="margin">Bridgman<hi>'s</hi> Rep. 59.</note> 
+               <hi>The King is a ſcurvy King,</hi> which is of the ſame Tendency, with that which is mentioned in the other Caſe.</p>
+            <p>From pretended Authorites he falls to Reaſoning, and ſays, if Words were not Treaſon
+<hi>there would be a plain Evaſion of the Statute,</hi> 25 <hi>E.</hi> 3. <hi>as is manifeſt, upon the reading it,</hi> 'tis ſtrange all the Judges in <hi>Pyne</hi>'s <note place="margin">Pag.
+4.</note> Caſe could not diſcern what is ſo <hi>manifeſt;</hi> but beſides that, I have ſhewn the contrary to be <hi>manifeſt</hi> unleſs we will blend and confound what Mankind have always had diſtinct Conceptions of, The Ld. <hi>Coke</hi> gives good reaſon why the Statute ought not to be ſtrained to this Senſe.</p>
+            <p>
+               <q>The Wiſdom ſays he of the Makers of this Law would not make Words only Treaſon, ſeeing ſuch Variety among the Witneſſes are about <note place="margin">Juſt. 3. 14.</note> the ſame, as few of them agree together. And therefore as leaſes Parol have uſually been call'd leaſes of Perjury; ſo Treaſons parol may likewiſe be ſo call'd.</q>
+            </p>
+            <p>Another reaſon brought by the Vindicator being from the Re<g ref="char:EOLhyphen"/>ſolutions upon Actions for Words, I have already conſidered, but may here again obſerve his ſtrong way of arguing, that Words alone muſt be Treaſon, <hi>for otherwiſe no Action could lie for ſaying a Man has ſpoke Treaſon;</hi>
+               <pb n="11" facs="tcp:61680:6"/> but ſurely to ſpeak ſeditious or treaſonable Words, which is in common Acceptation a ſpeaking Sedition or Treaſon, though not puniſhable within the Statute 25
+<hi>Edw.</hi> 3. is a Crime for which a Man is puniſhable; and no Man can queſtion but it is actionable to ſpeak that of another, which if he were guilty of it would ſubject him to Puniſhment.</p>
+            <p>I therefore may well renew the <hi>Challenge, where is the Authority for the Aſſertion,</hi> that Words alone make Treaſon within 25 <hi>Edw.</hi> 3. eſpecially <note place="margin">Pag.
+4.</note> where is the Evidence that <hi>[no Man ever doubted]</hi> of this? And Sir <hi>Matthew Hales,</hi> who lived and wrote ſince all the Caſes mentioned, or pretended by him, may paſs for ſome Body, his Words are theſe, <hi>Com<g ref="char:EOLhyphen"/>paſſing</hi> 
+               <note place="margin">Hales <hi>his Pleas of the Crown,</hi> pag. 13.</note> 
+               <hi>by [bare Words] is not an</hi> OVERT ACT, <hi>as appears by many Tem<g ref="char:EOLhyphen"/>porary Acts againſt it,</hi> 26. <hi>H.</hi> 8. <hi>c.</hi> 13. 1 <hi>El. c.</hi> 6. 13. <hi>El. c.</hi> 1. 14. <hi>El. c. i. &amp;c.</hi>
+            </p>
+            <p>Having diſpatch'd his Law part, his Politicks will deſerve but ſhort Con<g ref="char:EOLhyphen"/>ſideration, but to allow him to argue tolerably for a General Act of In<g ref="char:EOLhyphen"/>demnity, you muſt <hi>grant</hi> him his Hypotheſis, that if it was not <hi>juſtifi<g ref="char:EOLhyphen"/>able</hi> to make Words Treaſon, to maintain the diſpencing Power, or other things charg'd upon the <hi>Miniſters, Officers,</hi> and Inſtruments of Juſtice in former Reigns, at leaſt the Crimes were <hi>doubtful;</hi> and
+<hi>therefore the Juſtice of inflicting Puniſhments upon them can never be vindicated:</hi> but if they <note place="margin">Pag. 5.</note> were not <hi>doubtful,</hi> then at leaſt, the Juſtice of Puniſhments muſt not be diſputed.</p>
+            <p>But three Things he endeavours to evince with <hi>Calmneſs,</hi>
+            </p>
+            <p>1. That his Propoſal <hi>would be grateful to the Nation in General. and eve<g ref="char:EOLhyphen"/>ry good Man in particular.</hi> In the later part of which as 'tis uſual with him to mix <hi>Heterogenious</hi> matter, he interferes with his <hi>3d</hi> Head. 2 Con<g ref="char:EOLhyphen"/>ducing to the Settlement and Intereſt of the preſent Government. 3. That 'tis conſiſtent with and promotive of the higheſt and trueſt Juſtice.</p>
+            <p n="1">1. Though we have not yet had any other means of knowing the Senſe of the Nation, but by their Repreſentatives in the laſt Parliament, who both in the Bill of Rights and the Exceptions agreed to in the Act of Indem<g ref="char:EOLhyphen"/>nity, ſufficiently evidenced the contrary to what he ſays; yet he labours to argue them out of their Senſes, and to prove that that muſt needs be grateful to them which they have ſhewn not to be grateful: but obſerve his Reaſon, for ſays he,
+<hi>time wares off the ſenſe of Injuries,</hi> &amp;c. but if the ſame Men not only juſtify what is paſt, but continue the ſame <hi>Injuries,</hi> and ſhew that they will do ſo, till by Shame or ſome other way they are brought to a ſenſe of their Crimes, 'tis evident that his reaſon turns upon him.</p>
+            <p>But then he will have it that none are Adverſaries to this <hi>General In<g ref="char:EOLhyphen"/>demnity,</hi> but
+<hi>Republicans</hi> and <hi>Jacobites,</hi> as if himſelf were no <hi>Jacobite.</hi> But were all the Members of the laſt Houſe of Commons one or other of theſe? what thinks he of the King himſelf, and thoſe of his <hi>Council</hi> who have advis'd him to propound an Act of Grace with ſome Exceptions, to ſhew his diſlike of the Crimes?</p>
+            <p n="2">
+               <pb n="12" facs="tcp:61680:7"/> 2. As to his ſecond Head, it is certainly the Intereſt of every Government to ſupport thoſe that are, and have been faithful to it, and at leaſt to diſcounte<g ref="char:EOLhyphen"/>nance others, eſpecially when a <hi>Revolution</hi> has been occaſion'd by notorious violations of the Conſtitution: In ſuch caſe to make no Examples were to con<g ref="char:EOLhyphen"/>demn the Change and encourage thoſe Actions, which if they had not been perpetrated, the Change had been needleſs and unjuſtifiable.</p>
+            <p>But among his Arguments from Examples to prove his Cuncluſion: This is very pleaſant; he would prove it <hi>good Policy, for that 'tis obſervable in Story, that the Aſſociation in Queen</hi> Eliz. <hi>time was under a Proteſtant Prince for the</hi> 
+               <note place="margin">Pag.
+6.</note> 
+               <hi>Proteſtant Religion, and no ill Succeſs attended it, yet thoſe wiſe Anceſtors of ours thought fit to ſecure themſelves by turning the Aſſociation into a Law, and a General Act of Indemnity.</hi>
+            </p>
+            <p>According to this, either it is Wiſdom to indemnify thoſe who were guilty of Attempts to ſubvert our Religion and Laws; becauſe they who endeavour'd to maintain them in a way not formally authoriz'd, took care not to be puniſh'd by them who regarded Form more than Subſtance: which childiſh arguing would indeed not be unworthy of our Author: Or which is his more manifeſt intent) they who contributed to this Revo<g ref="char:EOLhyphen"/>lution, by their active Aſſiſtance, have as much need of an Indemnity as they who acted the moſt arbitrarily before. But whereas he would force this upon ſuch as he calls <hi>Bellowers for Vengeance,</hi> as if they were obli<g ref="char:EOLhyphen"/>ged to it in <hi>Policy</hi> and <hi>Honour;</hi> he in effect makes but one point of it,
+<note place="margin">Pag. 6.</note> it being of his own ſhewing that the <hi>Policy</hi> has not been neglected, and that they who imitated the Proteſtants in Queen <hi>Elizabeth</hi>'s Time, in undertaking to defend the Proteſtant Cauſe, and their Countrey, upon the known Rule in the Civil Law, That <hi>the Common-wealth may be relieved</hi> 
+               <note place="margin">Cujac. <hi>lib.</hi>
+4. <hi>fol.</hi> 154. Rempublicam ut pupillum extra ordinem juvari.</note> 
+               <hi>out of the ordinary Courſe;</hi> did imitate them alſo in their prudent pro<g ref="char:EOLhyphen"/>viſion to prevent the Objections and Proſecution of ſuch as this Author, who otherwiſe might have acted over that part which he already ventures to juſtify.</p>
+            <p>The <hi>Politicks</hi> failing him, he has recourſe to the <hi>Honour</hi> of them whom he ſoftens and prepares for a Complyance, by the gentle Terms of <hi>Blood-hounds, Bellowers for Vengeance, &amp;c.</hi> and will have it that they <note place="margin">Pag. 4. 6.</note> are oblig'd in Honour to provide for the <hi>Indemnity</hi> of him and his Friends; ſince they did for thoſe who reſcued the Nation out of their Hands: which is as much as to ſay, to ſhew your ſelves Men of Honour, you ought to put the Sword into their Hands, who you have reaſon to believe would try another bout after you had diſarm'd them.</p>
+            <p>Whatever excuſe this Authors Wit, or diſorder of Mind, may yield for want of Memory, his Readers cannot but remember that his point here undertaken to be proved, was that a <hi>general Indefinite act of oblivion,</hi> would be <hi>conducing to the Settlement and Intereſt of the preſent Government,</hi> 
+               <note place="margin">Pag. 4. Pag. 5.</note> and it muſt at leaſt be granted, that to paſs it upon his Grounds, as ſup<g ref="char:EOLhyphen"/>poſing <hi>the Points</hi> charged upon former <hi>Inſtruments</hi> to be <hi>juſtifiable, or at leaſt doubtful,</hi> would be ſo far from conducing to the <hi>Settlement</hi> of this Govern<g ref="char:EOLhyphen"/>ment, <note place="margin">Pag.
+5.</note> that it would remove it's very Foundation.</p>
+            <p>
+               <pb n="13" facs="tcp:61680:7"/> But then he would have it be <hi>the intereſt of each Party amongſt us, the Whig,</hi> ſays he, <hi>ought to promote is for</hi> two Reaſons. 1. <hi>Leſt being the</hi>
+               <note place="margin">Pag. 6.</note> 
+               <hi>leſſer part he chance to feel the want of it, and for that he has given ſome Provocation.</hi> 2. <hi>That if he be the greater the Memory of his Vengeance and Fury may be forgotten, and himſelf reſtor'd to the good opinion of the reſt of Mankind, by one act at leaſt of good Nature.</hi>
+            </p>
+            <p>But if ſuch as paſs for <hi>Whigs</hi> with him are the greater and better part of the Nation, then he has no <hi>Topick</hi> but their <hi>Honour</hi> to have recourſe to, and I am afraid he that has ſo ſcandalouſly reflected upon the <hi>Honour</hi> of the Lord
+<hi>Ruſſel,</hi> as he did in his firſt Paper, and ſtill juſtifies the baſe and diſhoneſt Proceedings againſt him, if he were no farther a Party to them, will be one of the laſt Men that can expect Forgiveneſs, till he harangue it in a penitential Declamation.</p>
+            <p>To proceed with him to the <hi>Tories.</hi> The <hi>Tory</hi> ſays he, <hi>ought to pur<g ref="char:EOLhyphen"/>ſue</hi> 
+               <note place="margin">Pag. 7.</note> 
+               <hi>the ſame Meaſures, and much for the ſame Reaſons, for his Top gallantry hath been, and if repractis'd will be again as odious and loathſome to the moderate and good as ever it was, or the others could be.</hi>
+            </p>
+            <p>Here 'tis obſervable. 1. That having divided the Nation into <hi>Whig</hi> and <hi>Tory,</hi> he either ſhuts out himſelf perhaps as being of another Allegi<g ref="char:EOLhyphen"/>ance, or condemns himſelf on which ſide ſoever he ſtands. 2. He is an excellent Advocate for the <hi>Tories</hi> who grants their Actions to have been <hi>odious and loathſome</hi> to the <hi>moderate and good,</hi> therein indeed he fully ſhews their Occaſion for an Act of <hi>Indemnity,</hi> but forgets that he would have palm'd it upon the Nation upon the Suppoſition that ſuch
+<hi>odious</hi> and <hi>loathſome</hi> Practices were Points either <hi>juſtifiable or doubtful.</hi> 3. He would <note place="margin">Pag. 5.</note> prevail upon the <hi>Whig</hi> from the Conſideration of his being the leſſer part, but take him as the oppoſite to the
+<hi>Tory,</hi> and that matter will not eaſi<g ref="char:EOLhyphen"/>ly be granted him.</p>
+            <p>In Church-Matters the <hi>Tories</hi> have diſtinguiſhed themſelves by a concern for
+<hi>Ceremonies</hi> more than Subſiſtance in Religion, and by ſetting up for a
+<hi>Diviſion</hi> or <hi>Faction</hi> headed by thoſe who engroſs'd Preferments by it, and manag'd underhand by Enemies to the <hi>Reformation.</hi> In the <hi>State</hi> their characteriſtical Note has, ever ſince the Nation ſhew'd it's deſire of a Law to prevent a
+<hi>Papiſt</hi> from ſucceeding to the Crown, been the crying up the <hi>Monarchy</hi> and Succeſſion to it, as independent on humane Laws, and branding all who were for the <hi>Bill of Excluſion</hi> as <hi>Republicans.</hi>
+            </p>
+            <p>Theſe Men therefore are but true to their Principles while they call them
+<hi>Republicans,</hi> who by a farther advance towards the Liberties of Eng<g ref="char:EOLhyphen"/>liſh-Men, than they went in the time of <hi>Charles</hi> 2. concurr'd in declaring King <hi>William</hi> and Queen
+<hi>Mary, King</hi> and <hi>Queen</hi> by the <hi>Laws of this Realm;</hi> even <note place="margin">Vid. <hi>Act declar<g ref="char:EOLhyphen"/>ing the Rights,</hi> &amp;c.</note> though he whom they would have prevented from coming to the Throne had taken Poſſeſſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and is yet alive: while the others who held his Suc<g ref="char:EOLhyphen"/>ceſſion ſacred, and that none but <hi>Republicans</hi> would attempt to deprive him of what they contended to be a <hi>Divine Right,</hi> may be allowed to call the <hi>Williamites Republicans.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:61680:8"/> With ſuch <hi>Republicans</hi> the Biſhops joined in their Propoſals to the late King, and ſince, in their inviting this King, while Prince, to take upon him the
+<hi>Adminiſtration</hi> of Affairs, without ſtaying to know the late King's Pleaſure. And theſe <hi>Republicans,</hi> when ſome were for calling back their old <hi>King,</hi> in ſpite of Oppoſition ſetled the Nation under a Proteſtant Head. Who therefore are the greater, and the better <hi>Party,</hi> and what is their true Intereſt, 'tis not to be doubted but will be very well underſtood, notwithſtanding all this <hi>Orator</hi>'s blinds, and empty
+<hi>Politicks.</hi>
+            </p>
+            <p n="3">3. This might be enough, by way of Prevention, to ſet aſide the Con<g ref="char:EOLhyphen"/>ſideration
+<note place="margin">Pag. 8.</note> of his third Head, did he not mention in it an undenyable Argument againſt a General indefinite Act of Oblivion, where he heaps up a great many Faults, which he lays to the charge of thoſe who act under his preſent Majeſty, which 'tis to be hop<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d are not true; but if they are, 'tis an Evidence that they have too much preſum'd upon Im<g ref="char:EOLhyphen"/>punity; and were it not for that Preſumption, they who had been con<g ref="char:EOLhyphen"/>cern'd in the Surrenders of Charters, would not, ſo ſoon at leaſt, have been guilty of thoſe foul Practiſes, which are too notorious to be conceal'd; and had things ſucceeded according to the deſire of moſt who were not too much concern'd for themſelves, or their Friends, they had been juſtly depriv'd of the Opportunity.</p>
+            <p>If at any time it be fit to <hi>anſwer a Fool in his Folly, leſt he ſeem wiſe in his own conceit;</hi> How much more ſo when he has gain'd a Re<g ref="char:EOLhyphen"/>putation among others; and with a vain Pomp of Words, and a way of arguing, admir'd for the miſteriouſneſs of it, he not only may lead ſome well-meaning Men to have little concern for ſo much innocent Blood as has been ſpilt; but would endeavour to bring the Nation to a participa<g ref="char:EOLhyphen"/>tion in the Guilt of that and all the other Crimes, which he would have ſwept away with an indefinite Act of Oblivion.</p>
+            <p>To ſhew that to make Examples of <hi>Lawyers</hi> who would impoſe up<g ref="char:EOLhyphen"/>on Courts with ſham Caſes and Authorities in Law, is but agreeable to <note place="margin">Pag. 2.</note> the Wiſdom and Juſtice of ancient Times; I ſhall refer to the Statute <hi>Weſt.</hi> 1. <hi>cap.</hi>
+30. which makes the putting any Deceit upon the King's Court puniſhable with Impriſonment for a Year and a Day, and a total Diſability to plead there, and leaves a diſcretion for greater Puniſhment.</p>
+            <p>If our wiſe Anceſtors made it ſo penal for Lawyers to impoſe upon Courts of ordinary Judicature in trivial matters, What would they have done, had they foreſeen the improvement of ſuch Deceits, by ſome of the Profeſſion, in matters of the higheſt importance, and their lewd En<g ref="char:EOLhyphen"/>deavours to miſlead the Juſtice of the Nation, and ſtain it with the Blood of the nobleſt Patriots?</p>
+            <pb n="15" facs="tcp:61680:8"/>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>THIS Paper may be thought larger than had been needful, and that all that part of it which tends to prove the <hi>Vindicator</hi> to be of <hi>another Allegiance,</hi> or to under-mine our preſent Settlement, might have been ſpared; it being no more than what, perhaps, he is proud of, or at leaſt than may be obvious to any that will conſider his three Sheets.</p>
+               <p>But my Buſineſs is not to ſhew him to himſelf, his inward Thoughts no doubt give him a worſe Character than I have affixt to him: yet Numbers being miſled either through prejudice or want of Conſiderati<g ref="char:EOLhyphen"/>on, it is but requiſite to take off that mask under which he would impoſe upon them: nor ought it to be ſaid in after Ages, to the reproach of this, that he who juſtified the Proceedings againſt the <hi>Lord Ruſſel</hi> after the Nation has done right to his Memory, was ſuffer'd to trample upon his Aſhes and enjoy the Triumph.</p>
+               <p>If our Saviour may at this Day be <hi>crucified</hi> afreſh, I ſubmit it to Con<g ref="char:EOLhyphen"/>ſideration what is to be thought of ſome in relation to the late Ld. <hi>R.</hi> and others.</p>
+               <p>Theſe things I believe every impartial Man, who truly compares what is offer'd on both ſides, will grant me.</p>
+               <p n="1">1. That this Gentleman uſes a very prepoſterous Method to perſwade this Government to an Act of Indemnity, without Exception for any Crimes that have been committed; when if his Reaſons prevail, we muſt renounce the Foundation upon which the Government ſtands, and yield to the Implication that there was nothing but pretence in that which ſeem'd the ſole Enducement to his preſent Majeſty to undertake our Deliverance, and went a great way with the
+<hi>Convention</hi> and <hi>Parliament</hi> in receiving him for our King. What the
+<hi>Convention</hi> and <hi>Parliament</hi> thought of the late King's Inſtruments of Male-adminiſtration has appeared above. And among other Paſſages in this King's Declaration of the <hi>Reaſons inducing him to appear in Arms for preſerving the Proteſtant Religion, and for reſtoring the</hi> 
+                  <note place="margin">Pag. 1. Prince <hi>of</hi> O<g ref="char:EOLhyphen"/>range<hi>'s Decla<g ref="char:EOLhyphen"/>ration.</hi>
+                  </note> 
+                  <hi>Laws and Liberties of</hi> England, Scotland, <hi>and</hi> Ireland, he ſays, <hi>We ſee that thoſe Counſellors who now have the chief credit with the King, have overturn<g ref="char:EOLhyphen"/>ed the Religion, Laws and Liberties of thoſe Realms, and ſubjected them in all things relating to their Conſciences, Liberties and Properties to Arbitra<g ref="char:EOLhyphen"/>ry Government, and that not only by ſecret and indirect ways, but in an o<g ref="char:EOLhyphen"/>pen and undiſguiſed manner.</hi> All which things, according to the <hi>Vindicator,</hi> are either <hi>juſtifiable</hi> or
+<hi>doubtful.</hi> 
+                  <note place="margin">Pag. 5.</note>
+               </p>
+               <p n="2">2. That he prefers the Safety of them who had joined in violating the Conſtitution of our Government to the Conſtitution it ſelf, and our hap<g ref="char:EOLhyphen"/>py Settlement under it.</p>
+               <p n="3">3. That the Reputations and Security of them who unjuſtly proſecuted to Death ſome of the beſt of our Patriots, is more valuable with him than all
+<pb n="16" facs="tcp:61680:9" rendition="simple:additions"/> that innocent Blood which has been ſacrificed to Luſt of Power in ſome, and the Ambition or Avarice of others.</p>
+               <p n="4">4. That in the Authorites and Arguments which he uſes to give coun<g ref="char:EOLhyphen"/>tenance to ſuch Proceedings, he diſcovers either great weakneſs of Judg<g ref="char:EOLhyphen"/>ment, or that <hi>faſleneſs</hi> which among ſome has paſs'd into a Proverb. And he may be left to his choice whether he will confeſs want of Judgment or of <hi>Veracity.</hi>
+               </p>
+               <p>It were eaſy to ſhew that he has <hi>palpably wreſted the Law in</hi> more
+<hi>In<g ref="char:EOLhyphen"/>ſtances</hi> than what I have mentioned; but I would not enter into the Pro<g ref="char:EOLhyphen"/>vinces of ſome learned <hi>Gentlemen,</hi> who can more effectually ſhew how he has abuſed them and what relates to their controverſy with him. They I am ſure deſerve not to be diſpiſed by him: and how low ſoever Malice or oblo<g ref="char:EOLhyphen"/>quy may have laid me; I thank God I could never ſo far undervalue my ſelf to flatter them who I believ'd were falſe to my Country. I have ever
+<note place="margin">Pag. 2. Pag. 1.</note> renounc'd all Friendſhips inconſiſtent with its Safety, and ſhall never fear provoking any Man while I proſecute its Service.
+<note place="margin">Becauſe ſome were not his true Friends, he's reſolv'd to make Enemies of thoſe who deſpiſe him.</note>
+               </p>
+               <p>I might poſſibly have rais'd my ſelf, by ſwimming with the Stream, though not to this Gentleman's Heighth, at leaſt, above a Competition with his <hi>Bagbearer.</hi> And if with this Vindicator, I would have ſtrain'd my Fancy and my reading, have <hi>wreſted</hi> Authorities, or made uſe of ſpurious ones to juſtify the Arbitrary Proceedings of the two laſt Reigns, I might poſſibly have attain'd to be <hi>Amanuenſis</hi> to the <hi>Obſervator,</hi> and at leaſt to have ſhard in the 800 <hi>l.</hi> part of Thouſands which iſſued out of the
+<hi>Exchequer</hi> for a ſingle Trial.</p>
+               <p>I hope it is no vanity to ſay that I left the Univerſity with Advantages e<g ref="char:EOLhyphen"/>nough for ſuch Preferment, nor wanted Invitations to change my ſide after, by freeing my ſelf from ſome Prejudices of Education, I became a Mark in the Eyes of thoſe who were than at helm.</p>
+               <p>I could not foreſee all the Events of conſtantly adhereing to an oppreſs'd cauſe, yet was not unprepar'd againſt all that could happen.</p>
+               <p>But without making particular Application, I cannot but remember the learned Mr. <hi>Mede</hi>'s Obſervation of himſelf, that by his pains to excuſe our <note place="margin">Vid. <hi>Mr.</hi> Medes <hi>Works.</hi>
+                  </note> Church for bowing to the Alter, he had merited great Preferment in it, had he not unfortunately engag'd in proving the <hi>Pope</hi> to be <hi>Antichriſt.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London;</hi> Printed for the Author, 1690.</p>
+            <pb facs="tcp:61680:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
